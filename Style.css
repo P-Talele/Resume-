@@ -1,0 +1,44 @@
+.body{
+    background-color:	#7575a3;
+}
+.nav-ul{
+        margin-left: 400px;
+        font: italic bold 20px  monospace;
+       
+       }
+.nav-home{
+        margin-left: auto; 
+      
+}
+.nav-professional{
+        margin-left: 100px;
+     
+ }
+.nav-portfollio{
+      margin-left: 100px;
+      color: blue;
+ }
+
+.nav-about{
+       margin-left: 100px;
+}
+.nav-contact{
+     margin-left: 100px;
+}
+
+/*Novbar end */
+
+.section-name-set{
+         
+      padding-left:400px ;
+      padding-top: 110px;
+      color: white;
+      font-size: 50px;
+      }
+      .Section-Degignation{
+        padding-left:400px ;
+        padding-top: 30px;
+        font-size: 30px;
+        color: white;
+
+      }
